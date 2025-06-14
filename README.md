@@ -62,7 +62,7 @@ The working directory must be set to the location where these CSV files are stor
    - Reads the main water quality dataset and prepares it for analysis by removing unused columns.
 
 2. **Handling Missing Values**
-   - For each parameter (e.g., Na, Ammonia, Calcium, Magnesium, Potassium):
+- For each parameter (e.g., Na, Ammonia, Calcium, Magnesium, Potassium):
    - Identifies correlated variables.
    - Fits a linear regression model to predict missing values based on related variables.
    - Imputes missing values using the resulting regression equation.
