@@ -68,8 +68,7 @@ The working directory must be set to the location where these CSV files are stor
    - Imputes missing values using the resulting regression equation.
 
 3. **Data Transformation and Normality Check**
-
-For each parameter, the script:
+- For each parameter, the script:
    - Summarizes the data and checks for normality using Shapiro-Wilk tests.
    - Applies suitable transformations (log or Tukey) if data deviate from normality.
    - Visualizes distributions with density plots and histograms.
