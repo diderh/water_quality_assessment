@@ -30,9 +30,9 @@ This R script performs a comprehensive water quality assessment by analyzing var
 
 1. **Primary Dataset:**
 
-- Water quality analysis (ANOVA).csv
-- Contains raw water quality measurements for different parameters and sampling points.
-- Supplementary Datasets:
+   - Water quality analysis (ANOVA).csv
+   - Contains raw water quality measurements for different parameters and sampling points.
+   - Supplementary Datasets:
 
 2. **PCA analysis.csv**
 
